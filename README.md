@@ -17,3 +17,6 @@ This model demonstrated the lowest RMSE values as demonstrated in figure 38, sug
 superior accuracy in wind speed prediction. On the other hand, the ARIMA performed poorly 
 for predicting wind speed. The regression line as seen in figure 39 supports the result that the 
 model's predictions are in strong agreement with the actual values.
+
+
+Download html file to view visualisations
